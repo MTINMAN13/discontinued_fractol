@@ -6,7 +6,7 @@
 /*   By: mman <mman@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/16 17:18:00 by mman              #+#    #+#             */
-/*   Updated: 2023/11/20 21:31:28 by mman             ###   ########.fr       */
+/*   Updated: 2023/11/22 19:22:01 by mman             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,6 +58,7 @@ int			ft_strncmp(const char *s1, const char *s2, size_t n);
 char		*ft_strnstr(const char *big, const char *little, size_t len);
 char		*ft_strtrim(char const *s1, char const *set);
 char		*ft_substr(char const *s, unsigned int start, size_t len);
+
 void		ft_lstadd_front(t_list **lst, t_list *new);
 void		ft_lstadd_back(t_list **lst, t_list *new);
 void		ft_lstclear(t_list **lst, void (*del)(void*));
