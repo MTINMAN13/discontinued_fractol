@@ -1,7 +1,7 @@
 #include "push_swap.h"
 
-resource : https://www.youtube.com/watch?v=K0XXVSL4wUo
-resource : https://medium.com/@ayogun/push-swap-c1f5d2d41e97
+// resource : https://www.youtube.com/watch?v=K0XXVSL4wUo
+// resource : https://medium.com/@ayogun/push-swap-c1f5d2d41e97
 
 void	argument_printer(int idk)
 {
